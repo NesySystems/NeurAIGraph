@@ -37,8 +37,7 @@ This project builds on cutting-edge research in neurosymbolic AI, knowledge repr
 We welcome contributions from the AI research community. Please see our [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to get involved.
 
 ## About the Author
-
-[Your Name] is an independent AI researcher specializing in neurosymbolic systems and knowledge representation. With a background in [Your Background], [Your Name] brings a unique perspective to the field, combining theoretical insights with practical implementation skills.
+A persistent dreamer with a knack for changing the world for the better with technology
 
 ## License
 
