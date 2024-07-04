@@ -45,4 +45,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-For inquiries about collaboration or employment opportunities, please contact [Your Email].
